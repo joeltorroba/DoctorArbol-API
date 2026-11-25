@@ -1,0 +1,7 @@
+{
+  "name": "doctor-arbol-api",
+  "version": "1.0.0",
+  "description": "API REST de Doctor Árbol",
+  "type": "module",
+  "private": true
+}

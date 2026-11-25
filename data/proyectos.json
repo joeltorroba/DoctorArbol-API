@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Poda del Parc de la Ciutadella",
+    "cliente": "Ajuntament de Barcelona",
+    "trabajadores": [1, 2]
+  },
+  {
+    "id": 2,
+    "nombre": "Tala de pinos secos en Collserola",
+    "cliente": "Parc Natural",
+    "trabajadores": [2, 3, 4]
+  },
+  {
+    "id": 3,
+    "nombre": "Revisión del arbolado escolar",
+    "cliente": "Consorci d'Educació",
+    "trabajadores": [1, 3]
+  }
+]
