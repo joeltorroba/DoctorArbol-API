@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "nombre": "Marta Soler",
+    "puesto": "Podadora en altura"
+  },
+  {
+    "id": 2,
+    "nombre": "Jordi Pons",
+    "puesto": "Jefe de equipo"
+  },
+  {
+    "id": 3,
+    "nombre": "Laia Ferrer",
+    "puesto": "Técnica forestal"
+  },
+  {
+    "id": 4,
+    "nombre": "Pau Roig",
+    "puesto": "Operario"
+  }
+]
