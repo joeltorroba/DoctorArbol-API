@@ -80,4 +80,11 @@ https://github.com/DAM-CITM-26/referencias/tree/main/doctor-arbol
 
 ## Despliegue
 
-La API se publicará en Vercel. Se añadirá la URL pública una vez comprobado el despliegue.
+API publicada en Vercel:
+https://doctorarbol-api.vercel.app
+
+Endpoints principales:
+
+- https://doctorarbol-api.vercel.app/api/documentos
+- https://doctorarbol-api.vercel.app/api/trabajadores
+- https://doctorarbol-api.vercel.app/api/proyectos
